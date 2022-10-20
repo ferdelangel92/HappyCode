@@ -453,8 +453,5 @@
         </div>
         
         <script src="app.js"></script>
-        <footer>
-            Copyright
-        </footer>
     </body>
 </html>
