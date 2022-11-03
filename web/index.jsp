@@ -418,11 +418,12 @@
                                     <textarea name="" id="" cols="15" rows="8" placeholder="Message Here..."></textarea>
                                 </div>
                                 <div class="submit-btn">
-                                    <a href="#" class="main-btn">
+                                    <a href="C.V/C.V Howard Fernando Del Angel Leija.pdf" class="main-btn">
                                         <span class="btn-text">Download CV</span>
                                         <span class="btn-icon">
                                             <i class="fas fa-download"></i>
                                         </span>
+                                    </a>
                                 </div>
                             </form>
                         </div>
@@ -452,6 +453,6 @@
             <i class="fas fa-adjust"></i>
         </div>
         
-        <script src="app.js"></script>
+        <script src="app.js"></script>        
     </body>
 </html>
