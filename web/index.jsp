@@ -203,7 +203,7 @@
                             <h3>Project Source</h3>
                             <div class="icons">
                                 <a href="www.google.ca" target="_blank">
-                                    <i class="fab fa-github"></i>
+                                    <i class="fab fa-github" href="https://github.com/ferdelangel92/HappyCode"></i>
                                 </a>
                                 <a href="www.google.ca" target="_blank">
                                     <i class="fab fa-behance"></i>
