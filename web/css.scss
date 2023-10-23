@@ -9,7 +9,7 @@
 
 :root{
     --color-primary: #000;
-    --color-secondary: #2d17d2;
+    --color-secondary: #00008B;
     --color-white: #FFFFFF;
     --color-black: #000;
     --color-grey0: #f8f8f8;
@@ -25,7 +25,7 @@
 
 .light-mode{
     --color-primary: #FFFFFF;
-    --color-secondary: #2dd731;
+    --color-secondary: #00008B;
     --color-white: #454e56;
     --color-black: #000;
     --color-grey0: #f8f8f8;
@@ -38,7 +38,7 @@
 }
 
 body{
-    background-color: var(--color-primary);
+    background-image: url(img/HD-wallpaper-binary-code-abstract-landscape-loveview-nature.jpg);
     font-family: 'Edu TAS Beginner', cursive;
     font-size: 1.1rem;
     color: var(--color-white);
