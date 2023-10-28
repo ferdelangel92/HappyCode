@@ -1,3 +1,10 @@
+/** 
+    Document: index
+    Created on: Aug. 5, 2022, 9:06:35 p.m.
+    Author: Ing.Howard Fernando Del Angel Leija
+    Version: 1.1
+ **/
+
 const sections = document.querySelectorAll('.section');
 const sectBtns = document.querySelectorAll('.controlls');
 const sectBtn = document.querySelectorAll('.control');
