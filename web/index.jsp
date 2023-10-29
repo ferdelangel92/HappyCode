@@ -1,4 +1,5 @@
-<%--Document: index
+<%--
+    Document: index
     Created on: Aug. 5, 2022, 9:06:35 p.m.
     Author: Ing.Howard Fernando Del Angel Leija
     Version: 1.1
@@ -9,7 +10,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title><Happy> {Code}</title>
+        <title><Happy>{Code}</title>
         <link rel="stylesheet" href="css.scss">
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -28,7 +29,7 @@
                 <div class="right-header">
                     <h1 class="name">
                         Hi!, <br>I'm <span>
-                            Howard Fernando del Angel Leija</span>
+                            Howard Fernando Del Angel Leija</span>
                         <br>A FullStack developer :)
                     </h1>
                     <p>
@@ -149,6 +150,18 @@
                 </div>
                 <h4 class="stat-title">My Timeline</h4>
                 <div class="timeline">
+                    <div class="timeline-item">
+                        <div class="tl-icon">
+                            <i class="fas fa-briefcase"></i>
+                        </div>
+                        <p class="tl-duration">2023 - Today</p>
+                        <h5>Control de la Informacion<span> - Caja Libertad</span></h5>
+                        <p>
+                            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+                            incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                            exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.                        
+                        </p>                        
+                    </div>
                     <div class="timeline-item">
                         <div class="tl-icon">
                             <i class="fas fa-briefcase"></i>
