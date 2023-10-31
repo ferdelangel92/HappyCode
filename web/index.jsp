@@ -28,7 +28,7 @@
                 </div>
                 <div class="right-header">
                     <h1 class="name">
-                        Hi!, <br>I'm <span>
+                        Hi! <br>I'm <span>
                             Howard Fernando Del Angel Leija</span>
                         <br>A FullStack developer :)
                     </h1>

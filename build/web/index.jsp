@@ -9,7 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title><Happy> {Code}</title>
+        <title><Happy>{Code}</title>
         <link rel="stylesheet" href="css.scss">
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -203,7 +203,7 @@
                             <h3>Project Source</h3>
                             <div class="icons">
                                 <a href="www.google.ca" target="_blank">
-                                    <i class="fab fa-github"></i>
+                                    <i class="fab fa-github" href="https://github.com/ferdelangel92/HappyCode"></i>
                                 </a>
                                 <a href="www.google.ca" target="_blank">
                                     <i class="fab fa-behance"></i>
@@ -418,11 +418,12 @@
                                     <textarea name="" id="" cols="15" rows="8" placeholder="Message Here..."></textarea>
                                 </div>
                                 <div class="submit-btn">
-                                    <a href="#" class="main-btn">
+                                    <a href="C.V/C.V Howard Fernando Del Angel Leija.pdf" class="main-btn">
                                         <span class="btn-text">Download CV</span>
                                         <span class="btn-icon">
                                             <i class="fas fa-download"></i>
                                         </span>
+                                    </a>
                                 </div>
                             </form>
                         </div>
@@ -452,6 +453,6 @@
             <i class="fas fa-adjust"></i>
         </div>
         
-        <script src="app.js"></script>
+        <script src="app.js"></script>        
     </body>
 </html>
