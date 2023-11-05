@@ -30,13 +30,19 @@
                     <h1 class="name">
                         Hi! <br>I'm <span>
                             Howard Fernando Del Angel Leija</span>
-                        <br>A FullStack developer :)
+                        <br>A FullStack Developer :)
                     </h1>
                     <p>
                         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                         incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
                         exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    </p>                    
+                    </p>
+                    <div class="btn-con">
+                        <a href="" class="main-btn">
+                            <span class="btn-text">Download C.V</span>
+                            <span class="btn-icon"><i class="fas fa-download"></i></span>
+                        </a>
+                    </div>
                 </div>
             </div>
         </header>
