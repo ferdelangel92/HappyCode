@@ -1,9 +1,10 @@
 /*
-    Document: index
+    Document: css.scss
     Created on: Aug. 5, 2022, 9:06:35 p.m.
     Author: Ing.Howard Fernando Del Angel Leija
     Version: 1.1
 */
+
 /*Resest Browser Default*/
 
 
@@ -44,8 +45,9 @@
     --color-grey-6: #12181b;
 }
 
+/*body*/
 body{
-    background-image: url(img/HD-wallpaper-binary-code-abstract-landscape-loveview-nature.jpg);
+    /*background-image: url(img/HD-wallpaper-binary-code-abstract-landscape-loveview-nature.jpg);*/
     font-family: 'Edu TAS Beginner', ls, cursive;
     font-size: 1.1rem;
     color: var(--color-white);
@@ -59,6 +61,7 @@ a{
     font-family: inherit;
 }
 
+/*header*/
 header{
     min-height: 100vh;
     font-family: 'Edu TAS Beginner', cursive;
@@ -68,6 +71,7 @@ header{
     /**padding: 0 !important;**/
 }
 
+/*section*/
 section{
     min-height: 100vh;
     width: 100%;
@@ -153,7 +157,7 @@ section{
         margin: .7rem 0;
         box-shadow: var(--box-shadow-1);
         i{
-            font-size: 1.2rem;
+            font-size: 100rem;
             color: var(--color-grey-2);
             pointer-events: none;
         }
@@ -237,8 +241,8 @@ section{
             }
         }
         p{
-                margin: 1.5rem 0;
-                line-height: 2rem;
+            margin: 1.5rem 0;
+            line-height: 2rem;
          }
     }    
 }
