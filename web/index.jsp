@@ -11,6 +11,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title><Happy>{Code}</title>
+        <link rel="icon" type="img/icon" href="img/favicon-io/favicon.ico"/>
         <link rel="stylesheet" href="css.scss">
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -464,6 +465,7 @@
             <i class="fas fa-adjust"></i>
         </div>
         
-        <script src="app.js"></script>        
+        <script src="app.js"></script>
+        
     </body>
 </html>
