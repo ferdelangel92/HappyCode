@@ -405,7 +405,7 @@
                                     <div class="icon">
                                         <i class="fas fa-globe-africa"> Languages</i>                                        
                                     </div>
-                                    <p><span>English, Spanish</span></p>
+                                    <p><span>English/Spanish</span></p>
                                 </div>                                
                             </div>
                             <div class="contact-icons">
