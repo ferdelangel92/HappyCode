@@ -153,6 +153,15 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="progress-bar">
+                            <p class="prog-title">MySQL</p>
+                            <div class="progress-con">
+                                <p class="prog-text">30%</p>
+                                <div class="progress">
+                                    <span class="sql"></span>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <h4 class="stat-title">My Timeline</h4>
