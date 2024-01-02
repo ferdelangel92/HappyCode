@@ -174,7 +174,7 @@
                             <i class="fas fa-briefcase"></i>
                         </div>
                         <p class="tl-duration">2019 - 2020</p>
-                        <h5>Analaista Programador<span> - Infomedia</span></h5>
+                        <h5>Analista Programador<span> - Infomedia</span></h5>
                         <p>
                             "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                             incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
