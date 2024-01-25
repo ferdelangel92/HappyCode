@@ -438,6 +438,8 @@
                             <form action="" class="contact-form">
                                 <div class="input-control i-ctrl-2">
                                     <input type="text" required placeholder="Your Name">
+                                </div>
+                                <div class="input-control">
                                     <input type="email" required placeholder="Your Email">
                                 </div>
                                 <div class="input-control">

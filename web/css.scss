@@ -368,6 +368,9 @@ section{
                     .js{
                         width: 30%;
                     }
+                    .sql{
+                        width: 30%;
+                    }
                 }
             }
         }
@@ -705,7 +708,7 @@ section{
         position: absolute;
         top: 0;
         right: 0;
-        transform: translateX(-100%);
+        transform: translateX(100%);
         transition: all .4s ease-out;
         z-index: -1;
     }
@@ -716,6 +719,7 @@ section{
             height: 100%;
             background-color: var(--color-secondary);
             transform: translateX(0);
+            transition: all .4s ease-out;
         }        
     }
 }
