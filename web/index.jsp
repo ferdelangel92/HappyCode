@@ -346,34 +346,7 @@
                                 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
                                 exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                             </p>
-                        </div>
-                        <div class="blog">
-                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEe1gnBJ0jT28VRO_htT814vg44eWReFV8_g&usqp=CAU" alt=""/>
-                            <h4>First Blog</h4>
-                            <p>
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                            </p>
-                        </div>
-                        <div class="blog">
-                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZpZZ8Wt9_dLE9xQYlrJzNaVhJ-AaJgqPF6Q&usqp=CAU" alt=""/>
-                            <h4>First Blog</h4>
-                            <p>
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                            </p>
-                        </div>
-                        <div class="blog">
-                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWcn7c60RqoEdTbwlDxVhkoQOxFjutFRfuNw&usqp=CAU" alt=""/>
-                            <h4>First Blog</h4>
-                            <p>
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                            </p>
-                        </div>
+                        </div>                        
                     </div>
                 </div>
             </section>
