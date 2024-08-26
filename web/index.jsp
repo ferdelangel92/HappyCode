@@ -10,7 +10,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title><Happy>{Code}</title>
+        <title>Happy {Code}</title>
         <link rel="icon" type="img/icon" href="img/favicon-io/favicon.ico"/>
         <link rel="stylesheet" href="css.scss">
         <link rel="preconnect" href="https://fonts.googleapis.com">
